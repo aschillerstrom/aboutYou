@@ -1,0 +1,22 @@
+.nav-wrapper {
+    width:  100vw;
+    background-color:#fce4ec!important;
+    font-family: 'Handlee', cursive;
+}
+
+
+
+html {
+    background-image: url('https://s22.postimg.cc/h2o5tq4y9/Pink-_Wallpaper-colors-34511779-1920-1080.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:  100vw;
+    height: 100vh;
+}
+
+p {
+    font-family: 'Handlee', cursive;
+    font-size: 30px;
+    text-align: center;
+}
